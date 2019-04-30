@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7095d7c5c284ec49a6d086c2c1923d5, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  serializedBehaviorTree: <BehaviorTree name="Test"><BaseRoot comment="" replaceShowName="False"
+    editorx="456" editory="24" guid="" debugId="1"><Root comment="" replaceShowName="False"
+    editorx="456" editory="132" guid="" debugId="2"><BevSelector comment="" replaceShowName="False"
+    editorx="456" editory="252" guid="3bd48cdb-5404-48e1-bc34-5f4e87860c3d" debugId="3"><BevWait
+    comment="" replaceShowName="False" editorx="456" editory="372" guid="01565ecc-5aed-4038-b207-8c8dba57ebff"
+    debugId="4" waitTime="0" /></BevSelector></Root></BaseRoot><unparented /></BehaviorTree>

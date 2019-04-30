@@ -1,0 +1,7 @@
+<BehaviorTree name="Test">
+  <Root debugId="1">
+    <BevSelector debugId="2">
+      <BevWait debugId="3" waitTime="0" />
+    </BevSelector>
+  </Root>
+</BehaviorTree>
