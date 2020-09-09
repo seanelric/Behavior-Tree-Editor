@@ -1,5 +1,6 @@
 # Behavior-Tree-Editor
 基于Unity3D的行为树编辑器，保存时导出xml和lua文件。
+练习用，不支持可视化调试；
 
 ## Description
 - Author
